@@ -1,5 +1,8 @@
 # surfs_up
 
+![image](https://user-images.githubusercontent.com/86085982/132144388-99391a96-7850-494e-8a89-a75300266197.png)
+
+
 ### Overview of Analysis
 In this challenge W. Avy wants more information about temperature trends before opening the shop. Specifically for months of June and December, to see if the shop would be sustainable all year round. To help find out this, the two technical analysis used functions such as Python, Pandas functions and methods, and SQLAlchemy to help arrive to the solution. 
 
